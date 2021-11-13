@@ -1,0 +1,16 @@
+C:\Dev\MemoryStreamReaderLastLineAlgo\bin\Debug\net5.0\MemoryStreamReaderLastLineAlgo.exe
+C:\Dev\MemoryStreamReaderLastLineAlgo\bin\Debug\net5.0\MemoryStreamReaderLastLineAlgo.deps.json
+C:\Dev\MemoryStreamReaderLastLineAlgo\bin\Debug\net5.0\MemoryStreamReaderLastLineAlgo.runtimeconfig.json
+C:\Dev\MemoryStreamReaderLastLineAlgo\bin\Debug\net5.0\MemoryStreamReaderLastLineAlgo.runtimeconfig.dev.json
+C:\Dev\MemoryStreamReaderLastLineAlgo\bin\Debug\net5.0\MemoryStreamReaderLastLineAlgo.dll
+C:\Dev\MemoryStreamReaderLastLineAlgo\bin\Debug\net5.0\ref\MemoryStreamReaderLastLineAlgo.dll
+C:\Dev\MemoryStreamReaderLastLineAlgo\bin\Debug\net5.0\MemoryStreamReaderLastLineAlgo.pdb
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\MemoryStreamReaderLastLineAlgo.csproj.AssemblyReference.cache
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\MemoryStreamReaderLastLineAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\MemoryStreamReaderLastLineAlgo.AssemblyInfoInputs.cache
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\MemoryStreamReaderLastLineAlgo.AssemblyInfo.cs
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\MemoryStreamReaderLastLineAlgo.csproj.CoreCompileInputs.cache
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\MemoryStreamReaderLastLineAlgo.dll
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\ref\MemoryStreamReaderLastLineAlgo.dll
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\MemoryStreamReaderLastLineAlgo.pdb
+C:\Dev\MemoryStreamReaderLastLineAlgo\obj\Debug\net5.0\MemoryStreamReaderLastLineAlgo.genruntimeconfig.cache
